@@ -1,6 +1,6 @@
 ---
-title: 'About'
-date: 2018-02-22T17:01:34+07:00
+title: About
+date: 2018-02-22 10:01:34 Z
 layout: page
 bodyClass: page-about
 ---
